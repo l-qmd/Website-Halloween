@@ -1,0 +1,389 @@
+@font-face {
+  font-family: 'Passero One';
+  src: url('PasseroOne-Regular.ttf');
+  font-weight: 400;
+}
+
+body {
+  background-color: #282828;
+}
+
+
+#view a {
+  color: #FF8A00;
+  font-family: Passero One;
+  font-size: 36px;
+  font-style: normal;
+  line-height: normal;
+  text-decoration-line: underline;
+  text-transform: capitalize;
+}
+
+#view {
+  list-style-type: none;
+  padding-left: 244px;
+  padding-right: 244px;
+
+}
+
+.menu a {
+  text-decoration-line: none;
+  color: white;
+  text-decoration: none;
+  font-family: Passero One;
+  font-size: 36px;
+}
+
+.menu {
+  list-style-type: none;
+
+}
+
+nav li {
+  display: inline-block;
+  margin: 0px;
+  padding-top: 10px;
+}
+
+nav {
+  text-align: center;
+}
+
+#centre {
+  text-align: center;
+}
+
+#citrouille {
+  width: 418px;
+  height: 418px;
+  flex-shrink: 0;
+  border-radius: 250px;
+  padding-top: 50px;
+}
+
+.numbers {
+  text-align: center;
+}
+
+.numbers div {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.bloc {
+  width: 200px;
+  height: 200px;
+}
+
+strong {
+  font-size: 150px;
+  color: white;
+  font-family: Passero One;
+}
+
+em {
+  font-size: 30px;
+  color: white;
+  font-family: Passero One;
+}
+
+.phrase {
+  text-align: center;
+  font-family: Passero One;
+  color: white;
+  font-size: 64px;
+}
+
+.orange {
+  color: #FF8A00;
+}
+
+h1 {
+  text-align: center;
+  font-family: Passero One;
+  color: #FF8A00;
+  font-size: 80px;
+}
+
+#titre {
+  text-align: center;
+  font-family: Passero One;
+  color: white;
+  font-size: 80px;
+  text-decoration: underline;
+}
+
+#histoire {
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#histoire h3 {
+  text-align: left;
+  font-family: Passero One;
+  color: #FF8A00;
+  font-size: 48px;
+  text-decoration: underline;
+
+
+}
+
+#histoire p {
+  text-align: left;
+  font-family: Passero One;
+  color: white;
+  font-size: 24px;
+
+}
+
+#gateau {
+  border-radius: 50px;
+  width: 250px;
+  height: 250px;
+}
+
+#histoire .personne {
+  color: #FF8A00;
+  text-align: left;
+  font-family: Passero One;
+  font-size: 24px;
+
+
+}
+
+#histoire #intro {
+  color: white;
+  text-align: left;
+  font-family: Passero One;
+  font-size: 20px;
+}
+
+#histoire ul {
+  color: white;
+  text-align: left;
+  font-family: Passero One;
+  font-size: 20px;
+
+}
+
+#histoire ol {
+  color: white;
+  text-align: left;
+  font-family: Passero One;
+  font-size: 20px;
+
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #474747a4;
+  padding-top: 50px;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+  font-family: Passero One;
+  font-size: 24px;
+}
+
+footer a {
+  color: #FF8A00;
+  text-align: center;
+  font-family: Passero One;
+  font-size: 28px;
+}
+
+@media screen and (max-width: 900px) {
+  #view a {
+    color: #FF8A00;
+    font-family: Passero One;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+  }
+
+  #view {
+    list-style-type: none;
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
+
+  .menu a {
+    text-decoration-line: none;
+    color: white;
+    text-decoration: none;
+    font-family: Passero One;
+    font-size: 20px;
+  }
+
+  .menu {
+    list-style-type: none;
+
+  }
+
+  nav li {
+    display: inline-block;
+    margin: 0px;
+    padding-top: 10px;
+  }
+
+
+  #centre {
+    text-align: center;
+  }
+
+  #citrouille {
+    width: 200px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 250px;
+    padding-top: 50px;
+  }
+
+  .numbers {
+    text-align: center;
+  }
+
+  .numbers div {
+    display: inline-block;
+    margin-right: 25px;
+  }
+
+  .bloc {
+    width: 200px;
+    height: 200px;
+  }
+
+  strong {
+    font-size: 25px;
+    color: white;
+    font-family: Passero One;
+  }
+
+  em {
+    font-size: 25px;
+    color: white;
+    font-family: Passero One;
+  }
+
+  .phrase {
+    text-align: center;
+    font-family: Passero One;
+    color: white;
+    font-size: 25px;
+  }
+
+  .orange {
+    color: #FF8A00;
+  }
+
+  h1 {
+    text-align: center;
+    font-family: Passero One;
+    color: #FF8A00;
+    font-size: 25px;
+  }
+
+  #titre {
+    text-align: center;
+    font-family: Passero One;
+    color: white;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+
+  #histoire {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  #histoire h3 {
+    text-align: left;
+    font-family: Passero One;
+    color: #FF8A00;
+    font-size: 20px;
+    text-decoration: underline;
+
+
+  }
+
+  #histoire p {
+    text-align: left;
+    font-family: Passero One;
+    color: white;
+    font-size: 12px;
+
+  }
+
+  #gateau {
+    border-radius: 50px;
+    width: 250px;
+    height: 250px;
+  }
+
+  #histoire .personne {
+    color: #FF8A00;
+    text-align: left;
+    font-family: Passero One;
+    font-size: 12px;
+
+
+  }
+
+  #histoire #intro {
+    color: white;
+    text-align: left;
+    font-family: Passero One;
+    font-size: 20px;
+  }
+
+  #histoire ul {
+    color: white;
+    text-align: left;
+    font-family: Passero One;
+    font-size: 20px;
+
+  }
+
+  #histoire ol {
+    color: white;
+    text-align: left;
+    font-family: Passero One;
+    font-size: 20px;
+
+  }
+
+  footer {
+    width: 100%;
+    height: 100px;
+    background-color: #474747a4;
+    padding-top: 50px;
+  }
+
+  footer p {
+    color: white;
+    text-align: center;
+    font-family: Passero One;
+    font-size: 16px;
+  }
+
+  footer a {
+    color: #FF8A00;
+    text-align: center;
+    font-family: Passero One;
+    font-size: 20px;
+  }
+
+  .imageh {
+    width: 250px;
+    height: 190px;
+    border-radius: 50px;
+  }
+}
