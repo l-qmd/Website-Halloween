@@ -11,6 +11,6 @@ The fundamental aim of the web mock-up is to visualise the project in its entire
   I encountered a few difficulties, particularly during the IT development, but I was able to learn some valuable lessons during the course of this project. During this experience, I had the opportunity to learn how to create a counter using JavaScript, how to manage my time efficiently and how to complete a project satisfactorily.<br> These new skills will enable me to tackle future projects with greater confidence.
 </p>
 <p>
-  You can find all my projects by clicking on the link below or via my github profile.
+  You can find all my projects by clicking on the link below or via my github profile.<br>
   <a href ="https://lqmd.notion.site/Mes-Projets-f5994c7b286c484c877819e456414d37?pvs=74)">--> My projects</a>
 </p>
